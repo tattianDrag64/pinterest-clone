@@ -19,17 +19,17 @@ A Pinterest clone built as a personal pet project using modern web technologies 
 
 ## 📁 Project Structure
 
-/src
-  /components     // Reusable UI components
-  /pages          // Application pages
-  /hooks          // Custom React hooks
-  /services       // API and data services
-  /ml             // Machine learning logic
+- /src
+-   /components     // Reusable UI components
+-   /pages          // Application pages
+-   /hooks          // Custom React hooks
+-   /services       // API and data services
+-   /ml             // Machine learning logic
 
 ## 🚧 Features (In Progress)
 
-- [x] User authentication and registration
-- [x] Upload and display images (pins)
+- [ ] User authentication and registration
+- [ ] Upload and display images (pins)
 - [ ] Create collections (boards)
 - [ ] Search by keywords and tags
 - [ ] Personalized feed using ML recommendations
